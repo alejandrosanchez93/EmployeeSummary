@@ -21,7 +21,7 @@ You can find this project here: https://github.com/alejandrosanchez93/EmployeeSu
 
 
 ## Test
-This image is a test for the application
+This gif is a demo of the application
 
 ![gif of Demo](TeamBuilderDemo.gif)
 
